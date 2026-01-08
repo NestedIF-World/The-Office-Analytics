@@ -6,6 +6,8 @@
 
 > *"Standardized testing, performance reviews, and capacity planning... basically, I'm doing the lord's work here."* — (Almost) Michael Scott.
 
+👉 **[View My Analysis (HR_EDA.ipynb)](./HR_EDA.ipynb)**
+
 ## 🏢 Project Mission
 Welcome to **The Office Analytics**. While I’m newly learning the ropes of Data Analysis, I decided to take a Kaggle HR dataset and treat it like a top-secret investigation into why people actually work here. 
 
